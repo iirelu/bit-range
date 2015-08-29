@@ -1,0 +1,10 @@
+[package]
+name = "bit_range"
+version = "0.1.0"
+authors = ["iirelu <totallymyrealemail@hush.ai>"]
+description = "A small library for getting bits and ranges of bits from byte collections"
+keywords = ["bit", "bitrange", "range", "bitfield"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/iirelu/bit-range"
+documentation = "https://iirelu.github.io/bit-range/bit_range/"
