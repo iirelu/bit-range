@@ -1,5 +1,8 @@
 //! A helper library for handling getting ranges of bits from containers of
 //! bytes.
+//!
+//! * [Github repo](https://github.com/iirelu/bit-range)
+//! * [Crates.io](https://crates.io/crates/bit-range)
 
 #![warn(missing_docs)]
 
