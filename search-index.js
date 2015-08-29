@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex['bit_range'] = {"items":[[0,"","bit_range","A helper library for handling getting ranges of bits from containers of\nbytes.",null,null],[8,"BitRange","","A trait for getting subsections of bits from containers of bytes.",null,null],[10,"get_bit_range","","Takes a range and converts the bits in that range into a u32.",0,{"inputs":[{"name":"bitrange"},{"name":"range"}],"output":{"name":"u32"}}],[10,"get_bit","","Takes an index and gets the bit at that index.",0,{"inputs":[{"name":"bitrange"},{"name":"u32"}],"output":{"name":"bool"}}]],"paths":[[8,"BitRange"]]};
+initSearch(searchIndex);
